@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd686ae4-7b3c-4c2a-8f60-cbe1ff596b06" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Robot Keywords" />
+        <option value="Robot Test Suite" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tLe1cErMTg7u4c0HB36SNUM6R9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\development\scripty\RobotFrameWorkDemo" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd686ae4-7b3c-4c2a-8f60-cbe1ff596b06" name="Default Changelist" comment="" />
+      <created>1622552582191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622552582191</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="736" y="-984" key="FileChooserDialogImpl" timestamp="1622560076294">
+      <screen x="-324" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="736" y="-984" key="FileChooserDialogImpl/0.0.1536.824/-324.-1440.2560.1400@-324.-1440.2560.1400" timestamp="1622560076294" />
+    <state x="399" y="-994" key="SettingsEditor" timestamp="1622632255434">
+      <screen x="-324" y="-1440" width="2560" height="1400" />
+    </state>
+    <state x="399" y="-994" key="SettingsEditor/0.0.1536.824/-324.-1440.2560.1400@-324.-1440.2560.1400" timestamp="1622632255434" />
+  </component>
+</project>
